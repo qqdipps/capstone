@@ -1,10 +1,22 @@
-# Capstone Product Plan
-The second deliverable for the capstone is your product plan.
-
-## Product Plan Components
-1. __Personal Learning Goals__: A list outlining the major things that you want to focus on learning in this project.
-
-1. __Problem Statement__: A clear, concise statement describing the problem your project will solve. Re-use the problem statement from the concept write-up or update if you've made adjustments.
+## Product Plan
+1. __Personal Learning Goals__:  
+Technical:
+    -  Have a deeper understanding about the work a web framework does to configuire, scaffold and direct. How all the coponents fit together?
+    - Have a deeper understanding about communication protocols, how information moves and security involved. 
+    - Be able to compare and contrast uses for functional programming vs OOP
+    - Design and implement websocket api and mobile app
+    - Learn about fualt tualerant systems using supervisor tree in OTP and implement if applicable.
+    - Learn how to demostrate load capacity of a mobile/api and implement
+    - Understand and implement some of the more advance/intermediate constructs/modules in elixir and phoenix.
+    - Learn to deploy on AWS and more about AWS ecosystem.
+    
+ Non-technical:
+    - Contribute to stackoverflow, ask questions, upvotes answers.
+    - Managment of resources (TIME!)
+    - Continue working on learning how to learn and unstick myself.
+   
+1. __Problem Statement__:   
+You wouldn't give your address to a stranger, why give out your social media or phone number? Instead use the WeMe messaging app to spawn lightning-fast connections and beam messages without compromising your privacy and safety.
 
 1. __Market Research__: Outline the key insights from your research, including:
     - your application’s competition - what alternatives are already out there (competing apps and/or non-app solutions)
